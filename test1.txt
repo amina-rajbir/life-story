@@ -6,4 +6,5 @@ my villae is circled with river.
 I have passed my chilhood in my beautiful village.
 I love play football.
 logo alignment is centered.
+Updating git conflict and added new line.
 
